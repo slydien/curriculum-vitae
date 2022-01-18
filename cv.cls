@@ -1,7 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{cv}
 
-\LoadClass{awesome-cv/awesome-cv}
+\LoadClass{Awesome-CV/awesome-cv}
 
 %
 % Modifications
