@@ -1,6 +1,6 @@
 .PHONY: examples
 
-CC = xelatex
+CC = lualatex
 
 cv.pdf: clean
 	$(CC) cv.tex
